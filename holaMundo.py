@@ -1,1 +1,3 @@
-print("Hola mundo!!")
+user = "Gerardo"
+
+print(f"Hola mundo {user}!! ")
